@@ -1,5 +1,0 @@
-Game: Mega Man: Maverick Hunter X
-Subject: X
-Copyright: Capcom
-Model Ripper: Random Talking Bush
-Hosting Permissions: The Models Resource
