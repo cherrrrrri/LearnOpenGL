@@ -1,0 +1,3 @@
+D:/openGLProject/GradientTriangle/build/CMakeFiles/OpenGLTest.dir
+D:/openGLProject/GradientTriangle/build/CMakeFiles/ALL_BUILD.dir
+D:/openGLProject/GradientTriangle/build/CMakeFiles/ZERO_CHECK.dir

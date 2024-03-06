@@ -1,0 +1,10 @@
+^D:\OPENGLPROJECT\ROTATECUBE\BUILD\CMAKEFILES\E59A91A5D33A3E6AFAAB998A9A021987\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/openGLProject/RotateCube -BD:/openGLProject/RotateCube/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/openGLProject/RotateCube/build/RotateCube.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,3 @@
+D:/openGLProject/Quadrilateral实现1：绘制两个三角形/build/CMakeFiles/OpenGLTest.dir
+D:/openGLProject/Quadrilateral实现1：绘制两个三角形/build/CMakeFiles/ALL_BUILD.dir
+D:/openGLProject/Quadrilateral实现1：绘制两个三角形/build/CMakeFiles/ZERO_CHECK.dir

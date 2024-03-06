@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\openGLProject\rotatecubetest\build\CMakeFiles\9da9516da94a9da75c94dd65e1fb7b57\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1D190D5F-D16F-3949-94B1-074EB1DADE58}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,3 @@
+D:/openGLProject/learnTexture/build/CMakeFiles/OpenGLTest.dir
+D:/openGLProject/learnTexture/build/CMakeFiles/ALL_BUILD.dir
+D:/openGLProject/learnTexture/build/CMakeFiles/ZERO_CHECK.dir

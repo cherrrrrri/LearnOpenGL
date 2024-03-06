@@ -1,0 +1,3 @@
+D:/openGLProject/GreenTriangle/build/CMakeFiles/OpenGLTest.dir
+D:/openGLProject/GreenTriangle/build/CMakeFiles/ALL_BUILD.dir
+D:/openGLProject/GreenTriangle/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,3 @@
+D:/openGLProject/learn_yamlTest/build/CMakeFiles/yaml_lerning.dir
+D:/openGLProject/learn_yamlTest/build/CMakeFiles/ALL_BUILD.dir
+D:/openGLProject/learn_yamlTest/build/CMakeFiles/ZERO_CHECK.dir

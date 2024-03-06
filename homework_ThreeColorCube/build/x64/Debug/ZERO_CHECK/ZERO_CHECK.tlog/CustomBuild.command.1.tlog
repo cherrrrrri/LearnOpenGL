@@ -1,0 +1,10 @@
+^D:\OPENGLPROJECT\THREECOLORCUBE\BUILD\CMAKEFILES\63CAC8C591602AEDC2A72A3C0ECD612E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/openGLProject/ThreeColorCube -BD:/openGLProject/ThreeColorCube/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/openGLProject/ThreeColorCube/build/OpenGLTest.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

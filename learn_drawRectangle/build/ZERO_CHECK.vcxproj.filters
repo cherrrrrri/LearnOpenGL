@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\openGLProject\drawRectangle\build\CMakeFiles\b110bcaa6a651c6bd84f01094cda86c7\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{654DD290-C30B-32A1-B3A1-FF3A294BF10A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

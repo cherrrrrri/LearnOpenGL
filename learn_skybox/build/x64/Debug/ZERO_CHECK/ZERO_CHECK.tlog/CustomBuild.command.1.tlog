@@ -1,0 +1,10 @@
+^D:\OPENGLPROJECT\LEARN_SKYBOX\BUILD\CMAKEFILES\B358A68BB0D5F0967D16D3726AFC54E1\GENERATE.STAMP.RULE
+setlocal
+D:\qt\Tools\CMake_64\bin\cmake.exe -SD:/openGLProject/learn_skybox -BD:/openGLProject/learn_skybox/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/openGLProject/learn_skybox/build/OpenGLTest.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

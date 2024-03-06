@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\openGLProject\Quadrilateral实现1：绘制两个三角形\build\CMakeFiles\3e7cdf3f84b4b04afd1f4256eb071eeb\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4C1279D9-424A-31D9-9A60-17530C2F92E7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

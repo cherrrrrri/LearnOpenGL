@@ -1,0 +1,10 @@
+^D:\OPENGLPROJECT\LEARN_MAP\BUILD\CMAKEFILES\A8FA8B19FF8A5AF97D2FBFD46A70A6B5\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/openGLProject/learn_map -BD:/openGLProject/learn_map/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/openGLProject/learn_map/build/OpenGLTest.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
